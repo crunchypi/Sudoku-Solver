@@ -1,2 +1,4 @@
 # Sudoku-Solver
-Can load Sudoku puzzles from .csv files, solve them. GUI is included.
+This project is created for solving Sudoku puzzles (Python) with backtracking(algo). 
+The boards are loaded as .csv files (two are included in the boards folder). 
+The project also contains a GUI script for visualisation and easier use (Tkinter).
